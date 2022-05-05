@@ -1,0 +1,48 @@
+[
+  {
+    "Navbar":[
+      {
+        "LabelTH":"เกี่ยวกับเรา",
+        "LabelENG":"About",
+        "Route":"/about",
+        "Name":"About"
+      },
+      {
+        "LabelTH":"About",
+        "LabelENG":"solution",
+        "Route":"/about",
+        "Name":"solutions"
+      },
+      {
+        "LabelTH":"Projects",
+        "LabelENG":"Projects",
+        "Route":"/projects",
+        "Name":"projects"
+      },
+      {
+        "LabelTH":"Projects",
+        "LabelENG":"TECH JOURNAL",
+        "Route":"/projects",
+        "Name":"techjournal"
+      },
+      {
+        "LabelTH":"Projects",
+        "LabelENG":"CAREERS",
+        "Route":"/careers",
+        "Name":"careers"
+      },
+      {
+        "LabelTH":"Projects",
+        "LabelENG":"CONTACT",
+        "Route":"/contact",
+        "Name":"contact"
+      },
+      {
+        "LabelTH":"Projects",
+        "LabelENG":"GET QUOTE",
+        "Route":"/getquote",
+        "Name":"get_quote"
+      }
+    ]
+  }
+]
