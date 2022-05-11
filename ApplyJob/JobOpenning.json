@@ -1,0 +1,130 @@
+{
+  "JobOpenning":[
+    {
+      "Staus":"0",
+      "JobTitle":"Junior Developer ",
+      "JobCode":"juniordev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Developer",
+       "JobCode":"dev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Senior Developer",
+       "JobCode":"Seniordev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Business Analysis",
+       "JobCode":"ba",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Developer Mobile Native (IOS)",
+       "JobCode":"iosdev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Developer Mobile Native (Android)",
+       "JobCode":"androiddev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Senior Mobile Developer",
+       "JobCode":"Seniormobiledev",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Senior System Analysis",
+       "JobCode":"Seniorsa",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Database Administrator",
+       "JobCode":"dbadmin",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Senior Clound Infrastructure",
+       "JobCode":"Seniorci",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Software Automate Test ",
+       "JobCode":"autotester",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Software Tester",
+       "JobCode":"tester",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"Quality Assurance",
+       "JobCode":"qa",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    },
+     {
+      "Staus":"0",
+      "JobTitle":"UXUI Designer ",
+       "JobCode":"UXUI",
+      "Qualification":"",
+      "JobDetails":"",
+      "Experience":"",
+      "openDate":""
+    }
+  ]
+}
