@@ -1,0 +1,17 @@
+{
+  "ApplyJob":[
+    {
+      "FullName":"",
+      "Mail":"",
+      "PhoneCountry":"",
+      "Phone":"",
+      "StartDate":"",
+      "CurSalary":"",
+      "ExpectedSalary":"",
+      "CoverLetter":"",
+      "Resume":"",
+      "Position":"",
+      "submitDate":""
+    }
+  ]
+}
