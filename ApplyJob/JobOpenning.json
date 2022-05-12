@@ -4,8 +4,21 @@
       "Staus":"0",
       "JobTitle":"Junior Developer ",
       "JobCode":"juniordev",
-      "Qualification":"",
-      "JobDetails":"",
+      "Qualification":[
+        "Bachelor or higher Degree in computer, IT or any related fields."
+        ,"Minimum 2+ years’ direct experience in Web Developer (Frontend) using modern tools (e.g., React, Angular or Vue JS), and is responsible for code integration into our Platform Web Application."
+        ,"Minimum 3+ years’ direct experience in Web Developer (Backend) by Java, Spring Boot."
+        ,"Minimum 3+ years’ experience in Oracle Database or DB2.",
+        "Total 5+ years experienced in programming.",
+        "Fast Learner, Leadership, Communication, Analytical Thinking and Service Minded."
+      ],
+      "JobDetails":[
+        "Responsive design and development of websites across multiple platforms for internal and external.",
+        "Analyst, design, testing, maintain, and develop of dynamic websites for internal and external.",
+        "Create technical and end-user documentation as needed.",
+        "Work mostly independently within task guidelines established by management.",
+        "Co-operate with team leader in estimation effort, developing plan/schedule ad performing tasks according to the plan."
+      ],
       "Experience":"",
       "openDate":""
     },
